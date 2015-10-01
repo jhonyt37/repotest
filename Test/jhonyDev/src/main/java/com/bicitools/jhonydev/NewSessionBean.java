@@ -14,6 +14,7 @@ import javax.ejb.LocalBean;
 @Stateless
 @LocalBean
 public class NewSessionBean {
+    private String data;
 
     public void businessMethod() {
     }
