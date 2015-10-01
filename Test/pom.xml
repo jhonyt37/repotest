@@ -10,5 +10,6 @@
     <module>Test-ear</module>
     <module>Test-web</module>
     <module>Test-ejb</module>
+    <module>jhonyDev</module>
   </modules>
 </project>
